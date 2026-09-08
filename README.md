@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sadafhukkeri/DSA-with-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1672-richest-customer-wealth](https://github.com/sadafhukkeri/DSA-with-Python/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sadafhukkeri/DSA-with-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sadafhukkeri/DSA-with-Python/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
