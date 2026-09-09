@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sadafhukkeri/DSA-with-Python/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [2299-strong-password-checker-ii](https://github.com/sadafhukkeri/DSA-with-Python/tree/master/2299-strong-password-checker-ii) |
 <!---LeetCode Topics End-->
